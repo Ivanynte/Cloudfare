@@ -1,3 +1,0 @@
-Cloud engineering
-
-Cloud learnings
